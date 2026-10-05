@@ -1,1 +1,491 @@
-{}
+{
+  "site": {
+    "name": "주술학교 이변 위키",
+    "shortName": "주술학교",
+    "tagline": "방문객 검문, 이변, 교대 근무 & 엔딩",
+    "description": "Roblox 주술학교(Jujutsu School Anomaly)의 궁극적인 가이드! 방문객을 검문하고, 저주받은 이변을 식별하고, 야간 근무에서 살아남아 주술고등학교 뒤에 숨은 미스터리를 밝혀내세요.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "home": "홈",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환",
+    "guide": "가이드",
+    "endings": "엔딩",
+    "mechanics": "메커니즘",
+    "characters": "캐릭터",
+    "controls": "조작",
+    "tips": "팁",
+    "codes": "코드"
+  },
+  "home": {
+    "meta": {
+      "title": "주술학교 이변 위키 - 가이드, 이변 & 엔딩",
+      "description": "주술학교 이변 위키는 Roblox 공포 생존 게임의 방문객 검문, 이변 규칙, 교대 근무, 엔딩, 보스 팁, 코드, 초보자 가이드를 다룹니다."
+    },
+    "hero": {
+      "eyebrow": "애니메이션 공포 검문 생존",
+      "title": "주술학교 이변 위키",
+      "description": "방문객을 검문하고, 저주받은 이변을 식별하고, 야간 근무에서 살아남아 주술고등학교 뒤에 숨은 미스터리를 밝혀내세요.",
+      "stats": [
+        "총 방문 290만+",
+        "최대 24명",
+        "최고 동시 접속 2.2천+",
+        "사용자 평점 95%"
+      ],
+      "primaryCta": "초보자 가이드",
+      "secondaryCta": "이변 가이드",
+      "tertiaryCta": "Roblox에서 플레이",
+      "videoLabel": "게임플레이 공략"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "주술학교 이변 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "첫 순찰부터 야간 근무 루프를 배우세요. 캠퍼스를 읽고, 조작법을 익히고, 주술고등학교에서 교대 근무를 온전히 버텨내세요."
+        },
+        {
+          "number": "2",
+          "title": "이변 가이드",
+          "description": "복도에 나타날 수 있는 모든 저주받은 왜곡, 개체, 음향 신호를 머릿속 목록으로 정리하세요."
+        },
+        {
+          "number": "3",
+          "title": "방문객 검문 가이드",
+          "description": "초상화, 등급, 신분 코드, 영적 인장을 확인해 변장한 이변이 결계를 넘지 못하게 하세요."
+        },
+        {
+          "number": "4",
+          "title": "모든 엔딩",
+          "description": "깨끗한 대피부터 숨겨진 정화된 새벽 루트까지, 모든 결말의 조건을 확인하세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기",
+      "quickLinks": [
+        "초보자 가이드",
+        "이변 목록",
+        "신분 검문",
+        "모든 엔딩"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "핵심 조작부터 깔끔한 순찰 루틴까지, 첫 야간 근무에 필요한 모든 것.",
+          "href": "/guide/jujutsu-school-anomaly-beginner-guide"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "이변 가이드",
+          "description": "모든 이변 분류, 경고 신호, 대응 프로토콜을 하나의 메커니즘 자료로 정리했습니다.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies"
+        },
+        {
+          "badge": "업데이트됨",
+          "title": "활성 코드",
+          "description": "보상과 상태, 단계별 사용 방법이 포함된 유효한 교환 코드.",
+          "href": "/codes/jujutsu-school-anomaly-codes"
+        },
+        {
+          "badge": "인기",
+          "title": "방문객 신분 검문",
+          "description": "저주받은 결계 너머로 방문객을 들이기 전에 확인해야 할 여섯 가지 신분 항목.",
+          "href": "/controls/jujutsu-school-anomaly-checking-ids"
+        },
+        {
+          "badge": "인기",
+          "title": "모든 엔딩",
+          "description": "다섯 가지 결말과 해금 조건, 그리고 진정한 퇴마 엔딩으로 가는 가장 빠른 루트.",
+          "href": "/endings/jujutsu-school-anomaly-endings"
+        },
+        {
+          "badge": "인기",
+          "title": "진 엔딩",
+          "description": "네 개의 성물 부적을 모으고 중앙 신사를 정화해 정화된 새벽에 도달하세요.",
+          "href": "/guide/jujutsu-school-anomaly-true-ending"
+        },
+        {
+          "badge": "신규",
+          "title": "캐릭터",
+          "description": "로스터의 모든 술사를 위한 아키타입, 티어 순위, 빌드.",
+          "href": "/characters/jujutsu-school-anomaly-characters"
+        },
+        {
+          "badge": "신규",
+          "title": "조작",
+          "description": "추천 재설정과 함께 정리한 PC, 컨트롤러, 모바일 키 바인딩 표.",
+          "href": "/controls/jujutsu-school-anomaly-controls"
+        },
+        {
+          "badge": "인기",
+          "title": "야간 근무 생존",
+          "description": "정신력을 관리하고 음향 신호를 읽으며 자정부터 새벽까지 네 단계를 버텨내세요.",
+          "href": "/mechanics/jujutsu-school-anomaly-night-shift"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "주술학교 이변이란?",
+      "paragraphs": [
+        "주술학교 이변(Jujutsu School Anomaly)은 개발사 Centurion Kitchen이 만든 Roblox 검문 공포 생존 게임입니다. 플레이어는 주술고등학교의 야간 근무를 맡아, 모든 방문객이 저주받은 결계를 넘기 전에 검문을 통과하도록 확인해야 합니다.",
+        "신분증과 허가증을 검사하고, 각 복도를 기준 상태와 비교하며, 달라진 점을 보고하세요. 놓친 이변 하나나 잘못된 보고 하나가 격리 루프를 깨뜨릴 수 있기에, 이 위키는 방문객 검문, 이변 유형, 교대 근무, 엔딩, 캐릭터, 조작법을 한곳에 모았습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Centurion Kitchen"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Roblox"
+        },
+        {
+          "label": "장르",
+          "value": "생존 공포"
+        },
+        {
+          "label": "최대 서버",
+          "value": "24명"
+        },
+        {
+          "label": "방문 수",
+          "value": "290만+"
+        },
+        {
+          "label": "평점",
+          "value": "95%"
+        }
+      ],
+      "cta": "모든 가이드 살펴보기"
+    },
+    "explore": {
+      "title": "주술학교 이변 위키 둘러보기",
+      "description": "주술고등학교 야간 근무에서 중요한 방문객 검문, 이변 도감, 엔딩, 캐릭터, 조작, 업데이트를 여덟 개의 모듈로 정리했습니다.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "주술학교 이변 초보자 가이드",
+          "description": "핵심 야간 근무 루프를 배우세요. 방문객을 검문하고 신분증과 허가증을 확인하며, 누가 주술고등학교의 저주받은 결계를 넘을 수 있는지 판단하세요.",
+          "href": "/guide/jujutsu-school-anomaly-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "첫 순찰 전에 캠퍼스 구조를 읽고 각 복도의 기준 모습을 외우세요."
+            },
+            {
+              "label": "2",
+              "detail": "핵심 조작을 익히세요. 상호작용으로 검사하고, 달리기로 도망치고, 보고 키로 이변을 기록합니다."
+            },
+            {
+              "label": "3",
+              "detail": "각 방을 천천히 정리하며 바닥 높이, 눈높이, 천장 높이에서 이상한 점을 확인하세요."
+            },
+            {
+              "label": "4",
+              "detail": "변화를 발견한 즉시 돌아서 보고하고, 결계를 재설정해 루프를 유지하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "주술학교 이변 방문객 가이드",
+          "description": "신분증과 허가증 확인부터 변장한 이변의 경고 신호를 알아채는 것까지, 도착한 방문객의 검문 규칙을 마스터하세요.",
+          "href": "/controls/jujutsu-school-anomaly-checking-ids",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "사진",
+              "detail": "초상화의 충실도를 확인해 녹아내린 질감, 색수차, 부자연스러운 홍채 확장을 찾아내세요."
+            },
+            {
+              "label": "등급",
+              "detail": "인쇄된 술사 등급을 방문객의 아우라와 신고한 임무와 비교하세요."
+            },
+            {
+              "label": "신분 코드",
+              "detail": "캠퍼스 접두사, 5자리 일련번호, 허가 접미사가 명부와 일치하는지 확인하세요."
+            },
+            {
+              "label": "인장",
+              "detail": "영적 인장은 영적 UV 조명 아래에서 짙은 진홍색으로 형광을 내야 합니다. 흐릿한 인장은 위조입니다."
+            },
+            {
+              "label": "유효 기간",
+              "detail": "누구든 들이기 전에 유효 기간이 현재 학기와 맞는지 확인하세요."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "주술학교 이변 도감 가이드",
+          "description": "학교에 들어오려는 초자연적 이변을 실전적으로 정리한 자료로, 각 이변의 경고 신호와 대응법을 담았습니다.",
+          "href": "/mechanics/jujutsu-school-anomaly-anomalies",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "두루마리",
+              "detail": "도장 복도의 뒤집힌 서예 두루마리에 뒤섞인 한자가 나타납니다."
+            },
+            {
+              "label": "문",
+              "detail": "비상 게시판이 있어야 할 벽에 교실 미닫이문이 나타납니다."
+            },
+            {
+              "label": "사물함",
+              "detail": "자물쇠가 다른 사물함으로 바뀌거나, 금속문이 살짝 열린 채 내부가 새까맣게 보입니다."
+            },
+            {
+              "label": "종소리",
+              "detail": "바람도 없고 종도 움직이지 않는데 안뜰에서 유령 종소리가 울립니다."
+            },
+            {
+              "label": "거울",
+              "detail": "화장실 거울의 반사가 내 움직임보다 1~2초 늦게 따라옵니다."
+            },
+            {
+              "label": "도리이 문",
+              "detail": "안뜰 신사의 붉은 도리이 문이 장면에서 완전히 사라집니다."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "주술학교 이변 엔딩 가이드",
+          "description": "표준 대피 루트부터 숨겨진 진 엔딩까지, 스토리 진행과 각 결말에 연결된 목표를 따라가세요.",
+          "href": "/guide/jujutsu-school-anomaly-ending-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "여덟 번 연속으로 이변을 완벽하게 판별해 보고하면 깨끗한 대피 엔딩을 얻습니다."
+            },
+            {
+              "label": "2",
+              "detail": "캠퍼스 곳곳에 숨겨진 네 개의 성물 부적을 모아 진 루트를 여세요."
+            },
+            {
+              "label": "3",
+              "detail": "부적으로 중앙 신사를 정화해 정화된 새벽 비밀 엔딩에 도달하세요."
+            },
+            {
+              "label": "4",
+              "detail": "잘못된 보고 세 번을 피하고 정신력을 0 이상으로 유지하세요. 그렇지 않으면 저주받은 동화가 발동합니다."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "주술학교 이변 보스 가이드",
+          "description": "학교의 미스터리 뒤에 숨은 대결을 준비하세요. 전투 정보와 생존 전략을 제공합니다.",
+          "href": "/guide/jujutsu-school-anomaly-true-ending",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "준비",
+              "detail": "최종 대결이 시작되기 전에 부적, 광원, 가득 찬 정신력 게이지를 챙기세요."
+            },
+            {
+              "label": "패턴",
+              "detail": "보스의 선딜 동작을 읽고 공간 베기가 떨어지기 전에 피하세요."
+            },
+            {
+              "label": "소환수",
+              "detail": "보스 딜 타임에 발이 묶이지 않도록 소환된 저주를 먼저 정리하세요."
+            },
+            {
+              "label": "후퇴",
+              "detail": "저주 에너지가 부족해지면 복도 아래로 시야를 끊고 물러나세요."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "주술학교 이변 캐릭터",
+          "description": "야간 근무 중 만나는 인물과 캐릭터를 소개합니다. 게토 스구루, 교사진, 학생들이 포함됩니다.",
+          "href": "/characters/jujutsu-school-anomaly-characters",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "공간 균열 술사: 순간이동 반격과 광범위한 공간 베기가 보스전 메타를 정의합니다."
+            },
+            {
+              "label": "A",
+              "detail": "번개 도관: 민첩한 견제형으로, 전격 공격이 이변의 무거운 선딜을 끊습니다."
+            },
+            {
+              "label": "B",
+              "detail": "혈액 장인: 체력을 관통 출혈 피해로 바꾸는 유형으로, 단독 플레이는 강하지만 레이드에서는 냉혹합니다."
+            },
+            {
+              "label": "C",
+              "detail": "유령 파수꾼: 결계와 밀쳐내기 전문가로, 협동 파티에서 빛을 발합니다."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "주술학교 이변 조작",
+          "description": "이동, 검사, 저주 감지, 보고를 위한 간결한 조작 자료로, 근무 중 빠르게 반응할 수 있습니다.",
+          "href": "/controls/jujutsu-school-anomaly-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "WASD",
+              "detail": "복도와 교실을 따라 앞, 왼쪽, 뒤, 오른쪽으로 이동합니다."
+            },
+            {
+              "label": "E",
+              "detail": "문, 사물함, 쪽지, 기타 오브젝트와 상호작용하고 검사합니다."
+            },
+            {
+              "label": "Shift",
+              "detail": "저주를 피하려 달립니다. 스태미나를 소모하므로 짧게 끊어 쓰세요."
+            },
+            {
+              "label": "Q",
+              "detail": "저주 감지를 켜서 영적 흔적과 미세한 이상을 강조합니다."
+            },
+            {
+              "label": "F",
+              "detail": "어두운 구석과 낮은 각도 확인을 위한 손전등 또는 부적 빛."
+            },
+            {
+              "label": "R",
+              "detail": "돌아서기 전에 터미널에 활성 이변을 기록합니다."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "주술학교 이변 업데이트",
+          "description": "알파가 성장하는 동안 공식 변경 사항, 버그 수정, 신규 콘텐츠, 개발자 공지를 추적하세요.",
+          "href": "/guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "밸런스",
+              "detail": "개발자 패치가 저주 에너지 비용과 이변 생성률을 조정합니다."
+            },
+            {
+              "label": "수정",
+              "detail": "버그 수정은 잘못된 보고, 끼인 문, 입력 지연을 대상으로 합니다."
+            },
+            {
+              "label": "콘텐츠",
+              "detail": "알파가 확장되면서 새로운 이변, 근무 이벤트, 엔딩이 추가됩니다."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "주술학교 이변 FAQ",
+      "description": "주술학교 이변에 대해 가장 많이 나오는 질문의 빠른 답변.",
+      "items": [
+        {
+          "question": "주술학교 이변이란?",
+          "answer": "주술학교 이변(Jujutsu School Anomaly)은 개발사 Centurion Kitchen이 만든 Roblox 검문 공포 생존 게임입니다. 플레이어는 주술고등학교의 야간 근무를 맡아 방문객의 신분증과 허가증을 확인하고, 격리 루프가 깨지기 전에 초자연적 이변을 보고합니다."
+        },
+        {
+          "question": "주술학교 이변의 첫 야간 근무는 어떻게 시작하나요?",
+          "answer": "먼저 캠퍼스 구조를 익히고, 각 복도를 천천히 걸으며 기준 상태와 비교하세요. 오브젝트와 상호작용해 검사하고, 저주 감지로 놓치기 쉬운 영적 흔적을 드러내세요."
+        },
+        {
+          "question": "주술학교 이변에서 방문객 신분증은 어떻게 확인하나요?",
+          "answer": "모든 신분증에서 여섯 항목을 검사하세요. 초상화 충실도, 술사 등급, 캠퍼스 신분 코드, UV 조명 아래의 영적 인장, 유효 기간, 하단 테두리의 미세 저주선입니다."
+        },
+        {
+          "question": "주술학교 이변에서 이변을 발견하면 어떻게 해야 하나요?",
+          "answer": "그냥 지나치지 말고 즉시 돌아서 터미널에 이변을 기록하세요. 놓친 이상 하나만으로도 진행 카운터가 초기화되므로, 먼저 보고한 뒤 결계를 재설정하세요."
+        },
+        {
+          "question": "주술학교 이변에는 엔딩이 몇 개인가요?",
+          "answer": "스토리는 다섯 가지 결말로 갈라집니다. 정화된 새벽, 깨끗한 대피, 저주받은 동화, 금단의 기록고, 끝없는 복도입니다. 진 루트는 네 개의 성물 부적과 신사 정화가 필요합니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "야간 근무에서 살아남을 준비가 되셨나요?",
+      "description": "무료로 최신 업데이트되는 주술학교 이변 가이드로 방문객 검문을 마스터하고, 모든 이변을 식별하며, 모든 엔딩에 도달하세요.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Roblox에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "주술학교 이변 가이드",
+    "overviewDescription": "주술학교 이변의 모든 근무를 다루는 공략, 초보자 팁, 검문 루트, 엔딩 가이드."
+  },
+  "endings": {
+    "overviewTitle": "주술학교 이변 엔딩",
+    "overviewDescription": "엔딩 1과 엔딩 2부터 엔딩 9와 진정한 최종 엔딩까지, 주술학교 이변의 모든 엔딩을 설명합니다."
+  },
+  "mechanics": {
+    "overviewTitle": "주술학교 이변 메커니즘",
+    "overviewDescription": "주술학교 이변의 이변, 교대 근무, 야간 근무 규칙, 이변 식별, 학생 이변이 작동하는 방식."
+  },
+  "characters": {
+    "overviewTitle": "주술학교 이변 캐릭터",
+    "overviewDescription": "주술학교 이변의 이야기를 만드는 학생, 교사, 고죠, 유지를 만나보세요."
+  },
+  "controls": {
+    "overviewTitle": "주술학교 이변 조작",
+    "overviewDescription": "주술학교 이변의 조작, 검사 프롬프트, 신분 검문, 경비 루틴을 설명합니다."
+  },
+  "tips": {
+    "overviewTitle": "주술학교 이변 팁",
+    "overviewDescription": "주술학교 이변에서 살아남기 위한 생존 팁, 가장 빠른 실패 루트, 이변 팁, 근무 전략."
+  },
+  "codes": {
+    "overviewTitle": "주술학교 이변 코드",
+    "overviewDescription": "모든 활성 주술학교 이변 코드, 보상 정보, 무료 스핀·젬·부스트로 교환하는 방법."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "활성 코드",
+    "updated": "업데이트됨",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션에서",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 사용 가능한 가이드가 없습니다. 곧 다시 확인하세요!"
+  },
+  "footer": {
+    "aboutTitle": "주술학교 이변 위키",
+    "about": "주술학교 이변 위키는 방문객 검문, 이변 규칙, 야간 근무, 엔딩, 필수 생존 지식을 다루는 독립 팬 제작 가이드 허브로, 신규와 베테랑 플레이어 모두를 위한 곳입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 주술학교 이변 위키. Centurion Kitchen 및 Roblox와 제휴 관계가 없습니다.",
+    "description": "무료 Roblox 공포 생존 게임. 방문객을 검문하고, 이변을 식별하고, 주술고등학교의 야간 근무에서 살아남으세요.",
+    "playGame": "Roblox에서 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "vvBuilder": "이변 체크리스트",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "메커니즘",
+    "bossGuides": "캐릭터",
+    "buildGuide": "엔딩",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "서비스 약관"
+  }
+}
