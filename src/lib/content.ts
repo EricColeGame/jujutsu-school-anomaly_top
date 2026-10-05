@@ -1,7 +1,7 @@
 import fs from "fs";
 import path from "path";
 import { CONTENT_TYPES as CONFIG_CONTENT_TYPES } from "@/config/navigation";
-import { routing, type Locale } from "@/i18n/routing";
+import { defaultLocale, routing, type Locale } from "@/i18n/routing";
 
 // 从统一配置导入内容类型
 export const CONTENT_TYPES = CONFIG_CONTENT_TYPES;
@@ -208,7 +208,7 @@ export async function getContent(contentType: string, slugSegments: string[], la
           slug: currentSlug,
           segments: slugSegments,
           contentType,
-          locale: routing.defaultLocale,
+          locale: defaultLocale,
           metadata: metadata as ContentMetadata,
           MDXContent,
           headings: getHeadingsFromFile(enMdxPath),
