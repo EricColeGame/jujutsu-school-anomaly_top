@@ -19,18 +19,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "Jujutsu School Anomaly Wiki",
+  shortName: "Jujutsu School",
+  logoText: "JS",
+  tagline: "Visitor Checks, Anomalies, Shifts & Endings",
+  description: "Your ultimate guide to Jujutsu School (Anomaly) on Roblox! Inspect visitors, identify cursed anomalies, survive night shifts and uncover the mystery behind Jujutsu High.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://jujutsu-school-anomaly.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://jujutsu-school-anomaly.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/120468139832999/Jujutsu-School",
+  heroVideoId: "M_sn_WrzqB4", // Jujutsu School (Anomaly) full walkthrough / gameplay
   social: {
     discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    youtube: "https://www.youtube.com/results?search_query=jujutsu+school+anomaly",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
