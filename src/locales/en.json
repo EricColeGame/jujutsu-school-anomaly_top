@@ -9,7 +9,14 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "endings": "Endings",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "controls": "Controls",
+    "tips": "Tips",
+    "codes": "Codes"
   },
   "home": {
     "meta": {
@@ -417,7 +424,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Jujutsu School Anomaly Guide",
+    "overviewDescription": "Walkthroughs, beginner tips, inspection routes, and ending guides that cover every Jujutsu School Anomaly shift."
+  },
+  "endings": {
+    "overviewTitle": "Jujutsu School Anomaly Endings",
+    "overviewDescription": "Every Jujutsu School Anomaly ending explained, from Ending 1 and Ending 2 to Ending 9 and the true final ending."
+  },
+  "mechanics": {
+    "overviewTitle": "Jujutsu School Anomaly Mechanics",
+    "overviewDescription": "How anomalies, shifts, night shift rules, anomaly identification, and student anomalies work in Jujutsu School Anomaly."
+  },
+  "characters": {
+    "overviewTitle": "Jujutsu School Anomaly Characters",
+    "overviewDescription": "Meet the students, teacher, Gojo, and Yuji who shape the story of Jujutsu School Anomaly."
+  },
+  "controls": {
+    "overviewTitle": "Jujutsu School Anomaly Controls",
+    "overviewDescription": "Jujutsu School Anomaly controls, inspection prompts, ID checking, and security guard routines explained."
+  },
+  "tips": {
+    "overviewTitle": "Jujutsu School Anomaly Tips",
+    "overviewDescription": "Survival tips, fastest fail routes, anomaly tips, and shift strategies to stay alive in Jujutsu School Anomaly."
+  },
+  "codes": {
+    "overviewTitle": "Jujutsu School Anomaly Codes",
+    "overviewDescription": "All active Jujutsu School Anomaly codes, reward details, and how to redeem them for free spins, gems, and boosts."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -448,9 +482,9 @@
     "officialYoutube": "Official YouTube",
     "vvBuilder": "Anomaly Checklist",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Ending Guide",
+    "raceGuides": "Mechanics",
+    "bossGuides": "Characters",
+    "buildGuide": "Endings",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
