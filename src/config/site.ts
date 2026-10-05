@@ -25,9 +25,9 @@ export const siteConfig: SiteConfig = {
   tagline: "Visitor Checks, Anomalies, Shifts & Endings",
   description: "Your ultimate guide to Jujutsu School (Anomaly) on Roblox! Inspect visitors, identify cursed anomalies, survive night shifts and uncover the mystery behind Jujutsu High.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://jujutsu-school-anomaly.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://jujutsu-school-anomaly.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@jujutsu-school-anomaly.top",
   gameUrl: "https://www.roblox.com/games/120468139832999/Jujutsu-School",
-  heroVideoId: "M_sn_WrzqB4", // Jujutsu School (Anomaly) full walkthrough / gameplay
+  heroVideoId: "qj5QLgvTJUM", // Jujutsu School (Anomaly) full walkthrough + ending
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/results?search_query=jujutsu+school+anomaly",
